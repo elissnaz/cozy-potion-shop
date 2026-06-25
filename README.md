@@ -11,21 +11,22 @@ The player prepares potions for customers using different ingredients, earns gol
 
 ## Screenshots
 
+### Main Menu
+
+![Main Menu](images/menu.png)
+
 ### Shop
 
 ![Shop](images/shop.png)
-
-### Potion Brewing
-
-![Potion](images/potion.png)
 
 ### Customer
 
 ![Customer](images/customer.png)
 
-### Main Menu
+### Potion Brewing
 
-![Main Menu](images/menu.png)
+![Potion](images/potion.png)
+
 
 ## Status
 
