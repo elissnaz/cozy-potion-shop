@@ -9,6 +9,16 @@ The player prepares potions for customers using different ingredients, earns gol
 * Unity
 * C#
 
+## Gameplay
+
+| Shop | Potion |
+|------|---------|
+| ![](images/shop.png) | ![](images/potion.png) |
+
+| Customer | Menu |
+|-----------|------|
+| ![](images/customer.png) | ![](images/menu.png) |
+
 ## Status
 
 This project may receive updates in the future.
